@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vc</groupId>
 	<artifactId>aws.code.build.demo</artifactId>
-	<version>0.0.8</version>
+	<version>0.0.9</version>
 
 
 	<!-- Inherit defaults from Spring Boot -->
