@@ -8,7 +8,7 @@ public class HomeController {
 
 	@RequestMapping({ "/", "/index" })
 	public String home() {
-		return "index " + new java.util.Date() + " Version 4";
+		return "index " + new java.util.Date() + " Version 7";
 	}
 
 }
